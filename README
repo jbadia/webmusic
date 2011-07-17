@@ -1,0 +1,6 @@
+shell client for webmusicdb.com made in python
+ 
+
+external python libraries:
+
+	* BeautifulSoup
